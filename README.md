@@ -4,4 +4,3 @@
 **💻 MERN Stack Developer** | React | Node.js | Express | MongoDB 
 <hr>
 ## **🛠️ Skills**
-**🛠️ Skills**
