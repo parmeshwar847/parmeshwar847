@@ -24,14 +24,14 @@
 
 <h2>📫 Contact Me</h2>
 
-<a href="mailto:parmeshwaragarkar847@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=parmeshwaragarkar847@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/parmeshwar-agarkar/">
+<a href="https://www.linkedin.com/in/parmeshwar-agarkar/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://github.com/parmeshwar847">
+<a href="https://github.com/parmeshwar847" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
 </a>
