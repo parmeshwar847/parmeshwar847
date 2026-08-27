@@ -16,4 +16,4 @@
 <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"></a>
 
 <hr>
-- **Personal Portfolio** • https://pfo-me.vercel.app/ Personal portfolio built with React showcasing my projects and skills. 
+- <strong>Personal Portfolio</strong> • <a href="https://pfo-me.vercel.app/">Portfolio</a> — Personal portfolio built with React showcasing my projects and skills. 
